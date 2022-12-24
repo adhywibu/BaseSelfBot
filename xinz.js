@@ -36,7 +36,7 @@ const xinz = conn.xinz
 
 fake = "© 𝐗𝐢𝐧𝐳-𝐓𝐞𝐚𝐦"
 fakeimage = fs.readFileSync("./media/aqul.jpeg")
-prefix = 'z'
+prefix = '.'
 blocked = []
 baterai = {
     baterai: 0,
